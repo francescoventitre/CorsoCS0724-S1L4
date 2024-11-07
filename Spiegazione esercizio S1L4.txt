@@ -1,0 +1,1 @@
+Attivando un ping dal laptop 192.168.100.100 (con default gateway impostato su 192.168.100.1) verso il laptop 192.168.200.100 (con default gateway impostato su 192.168.200.1), il pacchetto passa attraverso il router (a cui sono stati impostati i rispettivi default gateway sulle relative interfacce collegate) ed arriva a destinazione.
